@@ -22,9 +22,9 @@ LSTM mechanisms from natural language processing domains, implemented in transfo
 
 The MRI dataset used in this project belongs to ADNI (Alzheimer’s Disease Neuroimaging Initiative), which is a major research project aimed at studying Alzheimer's disease. link to ADNI : adni.loni.usc.edu
 
-The fMRI data was given and pre-processed by Dr. Gergo Bolla  from Semmelweis University, Budapest, Hungary.
+The fMRI data was collected and examined by Dr. Andras Horvath and given and pre-processed by PhD student Gergo Bolla from Semmelweis University, Budapest, Hungary.
 Participants in this dataset were tested in ADNI too.
 This data is divided into 2 classes – HC (Healthy Control) and MCI which was discussed earlier,
 Any file is a 4D nii file (3D image with a measure of time).
-We were blessed to cooperate with Dr. Bolla who helped us in this project, and we were inspired  
+We were blessed to cooperate with Bolla who helped us in this project, and we were inspired  
 a lot from his article that aimed to diagnose and compare ML models for MCI detection.
